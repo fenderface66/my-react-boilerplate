@@ -1,0 +1,11 @@
+import styled from 'styled-components';
+
+const Wrapper = styled.div`
+  padding: 0;
+  margin: 6px 0 0 0;
+  width: 100%;
+  border-top: 1px solid #94c6f1;
+  border-radius: 3px;
+`;
+
+export default Wrapper;
